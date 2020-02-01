@@ -42,7 +42,9 @@ export default function RegisterForm () {
                     />
                 </label>
 
-                <button>Submit</button>
+                <br/>
+
+                <button>Simplify My Life</button>
 
             </form>
         </div>
