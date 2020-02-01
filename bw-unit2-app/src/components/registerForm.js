@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import '../App.css';
 
 // registration form 
 // basic information to register for the app
